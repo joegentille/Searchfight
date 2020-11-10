@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Searchfight.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": ".net angular"
+    }
+  }
+}
